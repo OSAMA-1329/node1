@@ -1,0 +1,8 @@
+A node can also refer to a basic unit of a data structure, such as a linked list or tree data structure. 
+
+Nodes contain data and may also link to other nodes.
+Links between nodes are often implemented by pointers. 
+
+Node may also refer to Node.js, an open-source, cross-platform JavaScript runtime environment and library for running web applications outside the client's browser. 
+Node.js allows developers to write JavaScript code that runs directly in a computer process instead of in a browser.
+ It can be used to write server-side applications with access to the operating system, file system, and everything else required to build fully-functional applications.
